@@ -1,4 +1,4 @@
-# Tindog-Website
-Um site de tinder para cães
+# DogsCare-Website
+Um site de Cuidados para cães
 
-Pode ser acedido através do link: https://erivalto.github.io/Tindog-Website/ .
+Pode ser acedido através do link: https://erivalto.github.io/DogsCare-Website/ .
